@@ -4,6 +4,14 @@ class Dog
   end
   
   def name
-    @name = 
+    @name
+  end
+  
+  def breed
+    @breed
+  end
+  
+  def breed=(assign)
+    @breed = assign
   end
 end
