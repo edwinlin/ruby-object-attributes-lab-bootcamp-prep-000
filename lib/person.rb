@@ -15,8 +15,8 @@ class Person
     @job = assign
   end
   
-  def initialize(name,job)
-    @name = name
-    @job = job
-  end
+  # def initialize(name,job)
+  #   @name = name
+  #   @job = job
+  # end
 end
